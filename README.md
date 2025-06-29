@@ -1,22 +1,5 @@
 # React Admin Dashboard
 
-## 📸 Screenshots
-
-### Dashboard (Dark Mode)
-![Dashboard Dark Mode](screenshots/dashboard-dark.png)
-
-### Dashboard (Light Mode)
-![Dashboard Light Mode](screenshots/dashboard-light.png)
-
-### Line Chart (Dark Mode)
-![Line Chart Dark Mode](screenshots/line-chart-dark.png)
-
-### Team Table (Light Mode)
-![Team Table Light Mode](screenshots/team-table-light.png)
-
-### Calendar (Dark Mode)
-![Calendar Dark Mode](screenshots/calendar-dark.png)
-
 ---
 
 A modern, professional, and fully customizable React Admin Dashboard featuring light/dark themes, interactive tables, charts, calendar, Kanban board, and widgets. Built with Material-UI, Recharts, and FullCalendar for seamless integration and a smooth user experience.
